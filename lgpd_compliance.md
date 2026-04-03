@@ -1,0 +1,2 @@
+# LGPD Compliance
+This educational platform complies with the General Data Protection Law (LGPD) of Brazil, ensuring that the personal data of all users is collected, processed, stored, and shared in adherence to the principles of legality, purpose, necessity, transparency, security, and accountability.
